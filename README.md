@@ -1,6 +1,6 @@
 # Monoclonal Antibody Production Optimization
 
-Monoclonal antibodies (mAbs) are antibodies produced from a uniquely cloned white blood cell and have been used in up and coming cancer treatments to mark cancer cells for destructiom by the immune system. Simulated monoclonal antibody production data is used to recommend initial glucose, glutamine, viable cell density, and harvest time. It compares polynomial and k-nearest neighbours models, forecasts complete batches, and ranks operating conditions by space-time profit. The workflow uses 30 batch datasets and reports estimated production value, profit, yield, and 95% prediction intervals calculated through simulation.
+Simulated monoclonal antibody production data is used to recommend initial glucose, glutamine, viable cell density, and harvest time. It compares polynomial and k-nearest neighbours models, forecasts complete batches, and ranks operating conditions by space-time profit. The workflow uses 30 batch datasets and reports estimated production value, profit, yield, and 95% prediction intervals calculated through simulation.
 
 ## Highlights
 
