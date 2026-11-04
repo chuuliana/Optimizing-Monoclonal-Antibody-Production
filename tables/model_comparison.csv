@@ -1,0 +1,3 @@
+Model,CV one-step RMSE [mg/L],Best parameters
+Polynomial,0.0561491333111951,{'polynomialfeatures__degree': 2}
+kNN,0.09611806970951002,{'kneighborsregressor__n_neighbors': 10}
